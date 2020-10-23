@@ -2,7 +2,8 @@
 	"name": "setcase",
 	"displayName": "SetCase",
 	"description": "",
-	"version": "0.0.1",
+  "version": "0.0.1",
+  "publisher": "puresamari",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
@@ -21,6 +22,7 @@
 			}
 		]
   },
+  "repository": "https://github.com/puresamari/vscode-set-case",
   "license": "Apache-2.0",
 	"scripts": {
 		"vscode:prepublish": "npm run compile",

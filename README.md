@@ -6,7 +6,7 @@ This is an extension to convert any kind of casing combination to a standardized
 
 Select text and convert the casing:
 
-![Demonstration](./set-case-demonstration.gif)
+![Demonstration](https://raw.githubusercontent.com/puresamari/vscode-set-case/master/set-case-demonstration.gif)
 
 ### Implemented Cases
 
